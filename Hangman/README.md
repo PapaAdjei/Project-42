@@ -1,10 +1,10 @@
-# Number Guessing Game
+# Hangman
 
-Number Guessing Game is a script or program that allows a user to guess a computer generated random number
+Hangman Game is a script or program that allows a user to guess a computer generated word
 
 ## Installation
 
-you can download the file from [github](https://github.com/PapaAdjei) to have a copy of the script or program
+you can download the file from [github](https://github.com/PapaAdjei/Project-42) to have a copy of the script or program
 
 ## Usage
 
